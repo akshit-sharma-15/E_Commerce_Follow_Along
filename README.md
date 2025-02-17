@@ -296,3 +296,13 @@ This project is an e-commerce website developed through a series of milestones, 
    npm start
    
 5. Open http://localhost:3000/ in your browser.
+
+### Milestone 8: Product Card Component & Homepage Layout  
+*✅ Goals:*  
+1. *Card Component Creation:* Designed a reusable card component for displaying product details.  
+2. *Homepage Layout Design:* Created a responsive grid layout for displaying multiple product cards.  
+3. *Dynamic Data Display:* Implemented dynamic rendering of product cards using mapping.  
+4. *Consistency & Responsiveness:* Ensured consistent styling and responsive design.  
+5. *README Update:* Documented progress and learning outcomes for Milestone 8.  
+
+---
