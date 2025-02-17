@@ -328,3 +328,20 @@ This project is an e-commerce website developed through a series of milestones, 
    - Updated the repository with details about the product input form.  
 
 ---
+
+### Milestone 10: Product Schema & Endpoint Creation  
+✅ Goals:  
+1. Product Schema Creation:  
+   - Designed a Mongoose schema for product details including name, description, price, and image URL.  
+   - Ensured each field has proper validation (e.g., required fields, correct data types).  
+2. Endpoint Creation:  
+   - Built a POST endpoint to receive product data.  
+   - Validated and saved the product details to MongoDB.  
+3. Why Validation?  
+   - Ensures that only valid data is saved in the database, maintaining data integrity and preventing errors.  
+4. Security Enhancements:  
+   - Implemented additional validation and data integrity measures to ensure accurate and secure data storage.  
+5. Next Steps (Optional):  
+   - Experiment with adding features such as admin access control to allow only admins to upload products or creating user profiles with roles for managing the shop.  
+
+---
