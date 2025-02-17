@@ -306,3 +306,25 @@ This project is an e-commerce website developed through a series of milestones, 
 5. *README Update:* Documented progress and learning outcomes for Milestone 8.  
 
 ---
+### Milestone 9: Product Input Form  
+*✅ Goals:*  
+1. *Product Form Creation:*  
+   - Designed a form for inputting product details such as name, description, price, and category.  
+   - Included fields for uploading multiple product images.  
+2. *Image Upload Functionality:*  
+   - Implemented file input to accept multiple images.  
+   - Configured frontend to preview selected images before submission.  
+3. *Form Validation & Error Handling:*  
+   - Ensured all required fields are filled out.  
+   - Displayed validation errors for incomplete or incorrect inputs.  
+4. *Integration with Backend:*  
+   - Connected the form to the backend API for product creation.  
+   - Stored product details and images in MongoDB.  
+5. *User Experience Enhancements:*  
+   - Provided a clean and user-friendly UI for the product input form.  
+   - Added real-time feedback for image uploads and form validation.  
+6. *README Update:*  
+   - Documented the progress and learning outcomes for Milestone 9.  
+   - Updated the repository with details about the product input form.  
+
+---
