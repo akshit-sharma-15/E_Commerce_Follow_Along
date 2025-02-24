@@ -369,3 +369,23 @@ This project is an e-commerce website developed through a series of milestones, 
 - ✅ Shared the repository link for submission.
 
 ---
+### Milestone 12: My Products Page - Filtering by User Email  
+
+>>>>>>
+✅ *Goals:*  
+1. *Code Refactoring:*  
+   - Improved code structure, ensuring modular and maintainable components.  
+   - Removed unnecessary files and optimized logic.  
+2. *Comprehensive README Update:*  
+   - Documented all features and milestones clearly.  
+   - Added setup instructions and usage details for new contributors.  
+3. *Bug Fixes:*  
+   - Fixed known issues related to authentication and data fetching.  
+   - Enhanced error handling for better debugging.  
+4. *Deployment Preparation (Optional):*  
+   - Structured code for potential deployment on platforms like *Vercel* or *Heroku*.  
+5. *Final Submission:*  
+   - Pushed the updated code to *GitHub*.  
+   - Ensured project documentation is complete and easy to understand.  
+
+---
