@@ -435,3 +435,30 @@ app.delete("/api/products/:id", async (req, res) => {
 });
 
 ---
+
+### Milestone 15: Navbar Component & Navigation
+
+✅ Goals:
+
+#### ⿡ Creating the Navbar Component
+- Designed a *responsive Navbar* with navigation links for:
+  - Home
+  - My Products
+  - Add Product
+  - Cart
+- Ensured *consistency across all pages* for a seamless experience.
+
+#### ⿢ Implementing Reusability
+- Used the Navbar *across all screens* to maintain a uniform layout.
+- Optimized *component structure* for easy scalability.
+
+#### ⿣ Enhancing Responsiveness
+- Used *CSS Flexbox/Grid* & *Tailwind CSS* to make the Navbar adaptable to different screen sizes.
+- Implemented *hamburger menu* for mobile users.
+
+#### ⿤ Submission Steps
+- ✅ Pushed the updated code to the GitHub repository.
+- ✅ Updated the README.md file with Milestone 15 details.
+- ✅ Shared the repository link for submission.
+
+---
