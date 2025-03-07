@@ -522,3 +522,38 @@ app.delete("/api/products/:id", async (req, res) => {
 - ✅ Shared the repository link for submission.  
 
 ---
+
+### Milestone 18: Cart Page and Checkout Functionality  
+
+✅ Goals:  
+
+#### ⿡ Creating the Cart Page  
+- Designed a Cart Page to display:  
+  - List of added products  
+  - Product images, names, prices, and quantities  
+  - Total cart value  
+- Implemented a Remove from Cart button for each item.  
+
+#### ⿢ Backend - Fetch & Update Cart  
+- Created an endpoint to retrieve cart items from the database.  
+- Implemented an API to update product quantities in the cart.  
+- Ensured secure cart data management for logged-in users.  
+
+#### ⿣ Checkout Functionality  
+- Added a Checkout button that:  
+  - Confirms the order  
+  - Clears the cart after a successful purchase  
+  - Redirects users to an order confirmation page  
+- Integrated a payment gateway placeholder for future improvements.  
+
+#### ⿤ User Experience Enhancements  
+- Provided real-time cart updates when quantities change.  
+- Displayed subtotal and total price dynamically.  
+- Ensured a mobile-friendly UI for a seamless experience.  
+
+#### ⿥ Submission Steps  
+- ✅ Pushed the updated code to the GitHub repository.  
+- ✅ Updated the README.md file with Milestone 18 details.  
+- ✅ Shared the repository link for submission.  
+
+---
