@@ -557,3 +557,35 @@ app.delete("/api/products/:id", async (req, res) => {
 - ✅ Shared the repository link for submission.  
 
 ---
+
+### Milestone 19: Cart Quantity Management
+
+✅ Goals:
+
+### ⿡ Frontend - Cart Page UI Enhancements
+
+- Added + and - buttons next to each product to modify its quantity.
+
+- Ensured real-time updates for accurate pricing adjustments.
+
+### ⿢ Backend - Quantity Management Endpoint
+
+- Created two API endpoints to increase and decrease product quantity in the cart.
+
+- Integrated logic to prevent negative quantities and handle item removal automatically when reduced to zero.
+
+### ⿣ Enhancing User Experience
+
+- Ensured instant feedback when quantity adjustments are made.
+
+- Maintained a clean UI design with clear quantity controls.
+
+### ⿤ Submission Steps
+
+- ✅ Pushed the updated code to the GitHub repository.
+
+- ✅ Updated the README.md file with Milestone 19 details.
+
+- ✅ Shared the repository link for submission.
+
+--- 
