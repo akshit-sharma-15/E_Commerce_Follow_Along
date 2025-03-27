@@ -683,3 +683,27 @@ app.delete("/api/products/:id", async (req, res) => {
 - ✅ Shared the repository link for submission.
 
 ---
+
+# Milestone 23: Product Image Upload Feature
+
+✅ **Goals:**
+
+### 1️⃣ Backend - Product Image Upload Endpoint
+
+- Created an API endpoint for uploading product images using **Multer**.
+- Integrated image storage logic to save uploaded images in a designated folder and store their paths in the database.
+- Ensured endpoint security by restricting access to admin users only.
+
+### 2️⃣ Enhancing User Experience
+
+- Implemented clear success and error response messages for better feedback.
+- Added file type validation to allow only image formats (e.g., `.jpg`, `.png`, `.jpeg`).
+- Set a file size limit to prevent large uploads from slowing down the system.
+
+### 3️⃣ Submission Steps
+
+- ✅ Pushed the updated code to the GitHub repository.
+- ✅ Updated the README.md file with Milestone 23 details.
+- ✅ Shared the repository link for submission.
+
+---
