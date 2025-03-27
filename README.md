@@ -707,3 +707,33 @@ app.delete("/api/products/:id", async (req, res) => {
 - ✅ Shared the repository link for submission.
 
 ---
+
+# Milestone 24: Order Confirmation Page
+
+✅ Goals:
+
+### ⿡ Frontend - Order Confirmation Page
+
+- Developed an Order Confirmation Page that displays the following details:
+  - ✅ List of all products in the order with relevant details.
+  - ✅ The selected delivery address for clear reference.
+  - ✅ The total cart value calculated dynamically.
+  - ✅ A prominent "Place Order" button for finalizing the purchase.
+
+### ⿢ Enhancing User Experience
+
+- Ensured the layout is clean and user-friendly.
+- Added visual cues for better clarity, such as product images and clear section headings.
+- Provided feedback for successful order placement or any potential errors.
+
+### ⿣ Learning Outcome
+
+- Gained insights into implementing order functionality, including displaying order details and handling user selections.
+
+### ⿤ Submission Steps
+
+- ✅ Pushed the updated code to the GitHub repository.
+- ✅ Updated the README.md file with Milestone 24 details.
+- ✅ Shared the repository link for submission.
+
+---
