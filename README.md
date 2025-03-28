@@ -737,3 +737,35 @@ app.delete("/api/products/:id", async (req, res) => {
 - ✅ Shared the repository link for submission.
 
 ---
+
+# Milestone 25: Place Order Endpoint
+
+✅ *Goals:*
+
+### ⿡ Backend - Place Order Endpoint
+
+- Created a secure *Place Order* endpoint that:
+  - ✅ Receives product details, user information, and selected address from the frontend.
+  - ✅ Extracts the user's email to retrieve their _id from the database.
+  - ✅ Creates a *separate order* entry for each product while maintaining the same delivery address.
+  - ✅ Stores the order details in the *MongoDB orders collection* using the previously created order schema.
+
+### ⿢ Enhancing Functionality
+
+- Implemented proper error handling to manage invalid data or failed order creation.
+- Ensured only authenticated users can access the endpoint for added security.
+- Included clear success and error response messages for better frontend integration.
+
+### ⿣ Learning Outcome
+
+- Learned how to:
+  - Structure an effective *Place Order* endpoint.
+  - Manage and store order data efficiently in MongoDB.
+
+### ⿤ Submission Steps
+
+- ✅ Pushed the updated code to the GitHub repository.
+- ✅ Updated the README.md file with Milestone 25 details.
+- ✅ Shared the repository link for submission.
+
+---
