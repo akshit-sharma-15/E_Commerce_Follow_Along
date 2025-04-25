@@ -918,3 +918,23 @@ Ensured the application responds to the state updates in a seamless manner.
 Good luck, Kalvians! ✨
 
 ---
+
+Milestone 33: Creating and Storing JWT Token in Cookies
+✅ Goals:
+1️⃣ Backend - JWT Token Creation
+Installed the jsonwebtoken package using:
+npm install jsonwebtoken
+Used the sign method to create a JWT token, including the user's email and ID.
+2️⃣ Storing JWT Token in Cookies
+Set an expiration time for the JWT token using maxAge.
+Added the JWT token to the response as a cookie to store it in the browser.
+3️⃣ Enhancing Security
+Ensured that the JWT token is stored securely inside a cookie, facilitating seamless authentication.
+Implemented the cookie-based token storage to manage user sessions.
+4️⃣ Submission Steps
+✅ Pushed the updated code to the GitHub repository.
+✅ Updated the README.md file with Milestone 33 details.
+✅ Shared the repository link for submission.
+Good luck, Kalvians! ✨
+
+---
