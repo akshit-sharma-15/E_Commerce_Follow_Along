@@ -899,3 +899,22 @@ Allowed for easy management and updating of the email state via Redux actions an
 ✅ Updated the README.md file with Milestone 31 details.
 ✅ Shared the repository link for submission.
 Good luck, Kalvians! ✨
+---
+Milestone 32: Storing and Accessing Mail in Global State with Redux
+✅ Goals:
+1️⃣ Backend - Redux Integration with Mail
+Updated the Redux store to store the user's mail in the global state.
+Used the dispatch method to store the email in the global state upon login.
+2️⃣ Frontend - Accessing Mail Across Pages
+Used the useSelector hook to access the user's email in all pages.
+Ensured that the global email state is available across different components and pages.
+3️⃣ Enhancing User Experience with Redux
+Provided consistent access to the user's email across the application.
+Ensured the application responds to the state updates in a seamless manner.
+4️⃣ Submission Steps
+✅ Pushed the updated code to the GitHub repository.
+✅ Updated the README.md file with Milestone 32 details.
+✅ Shared the repository link for submission.
+Good luck, Kalvians! ✨
+
+---
